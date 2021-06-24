@@ -1,0 +1,6 @@
+﻿  Matrix Calculator.cpp
+C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(39,25): warning C4552: '<': result of expression not used
+C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(49,26): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(89,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(87): warning C4715: 'add': not all control paths return a value
+  Matrix Calculator.vcxproj -> C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\x64\Debug\Matrix Calculator.exe

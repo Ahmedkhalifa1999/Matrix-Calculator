@@ -1,0 +1,4 @@
+﻿  Matrix Calculator.cpp
+C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(88): warning C4715: 'add': not all control paths return a value
+C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Matrix Calculator\Matrix Calculator.cpp(111): warning C4715: 'subtract': not all control paths return a value
+  Matrix Calculator.vcxproj -> C:\Users\Ahmed Khalifa\Desktop\Matrix Calculator\Matrix Calculator\Debug\Matrix Calculator.exe
